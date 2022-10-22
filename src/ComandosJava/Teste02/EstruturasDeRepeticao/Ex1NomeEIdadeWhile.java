@@ -7,7 +7,7 @@ o primeiro representado o nome do aluno e o segundo representando a sua idade.
 
 import java.util.Scanner;
 
-public class Ex1_NomeEIdadeWhile {
+public class Ex1NomeEIdadeWhile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

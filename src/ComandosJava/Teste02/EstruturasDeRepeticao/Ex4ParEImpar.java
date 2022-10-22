@@ -7,7 +7,7 @@ Faça um programa que peça N número inteiros,
 calcule e mostre a quantidade de números pares
 e a quantidade de número impares.
  */
-public class Ex4_ParEImpar {
+public class Ex4ParEImpar {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

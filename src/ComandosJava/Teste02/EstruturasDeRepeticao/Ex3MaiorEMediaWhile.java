@@ -7,7 +7,7 @@ Faça um programa que leia 5 números e
 informe o maior número
 e a média desses números.
  */
-public class Ex3_MaiorEMediaWhile {
+public class Ex3MaiorEMediaWhile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

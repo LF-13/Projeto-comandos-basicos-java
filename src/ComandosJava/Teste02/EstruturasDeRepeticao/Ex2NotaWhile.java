@@ -7,7 +7,7 @@ continue pedindo, até que o usuário informe um valor válido.
 
 import java.util.Scanner;
 
-public class Ex2_NotaWhile {
+public class Ex2NotaWhile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int nota;
