@@ -22,7 +22,7 @@ public class EX4ArrayMultidimensional {
         for (int[] linha : M) {
             for (int coluna : linha) {
                 System.out.print(coluna + "");
-                
+
             }
             System.out.println();
         }
